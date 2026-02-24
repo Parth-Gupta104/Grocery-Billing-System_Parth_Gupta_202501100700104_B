@@ -15,6 +15,9 @@ A grocery store wants to calculate the total cost of items purchased by a custom
 
 **Sample Output :-**
 ----- BILL -----
+
 Original Total: Rs. 190.0
+
 Discount: Rs. 19.0
+
 Final Amount: Rs. 171.0
