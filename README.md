@@ -14,6 +14,7 @@ A grocery store wants to calculate the total cost of items purchased by a custom
 - then finally print the output of the total,discount amount and final price payable.
 
 **Sample Output :-**
+
 ----- BILL -----
 
 Original Total: Rs. 190.0
